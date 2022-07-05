@@ -230,13 +230,13 @@ async def about_handler(bot, message):
 
 <b>╭━━━━━━━〔𝙵𝙸𝙻𝙴-𝚃𝙾-𝙻𝙸𝙽𝙺 𝙱𝙾𝚃〕</b>
 ┃
-┣⪼<b>𝙱𝙾𝚃-𝙽𝙰𝙼𝙴 : <a href='https://github.com/Aadhi000/File-To-Link'
-┣⪼<b>𝚄𝙿𝙳𝙰𝚃𝙴𝚉 : <a href='https://t.me/MG_movies_and_web_series'
-┣⪼<b>𝚂𝚄𝙿𝙿𝙾𝚁𝚃 : <a href='https://t.me/MG_movies_and_web_series'
-┣⪼<b>𝚂𝙴𝚁𝚅𝙴𝚁 : 𝙷𝙴𝚁𝚄𝙺𝙾
-┣⪼<b>𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚁𝙾𝙶𝚁𝙰𝙼
-┣⪼<b>𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 
-┣⪼<b>𝚂𝙾𝚄𝚁𝙲𝙴-𝙲𝙾𝙳𝙴 : 
+┣⪼<b>𝙱𝙾𝚃-𝙽𝙰𝙼𝙴 : <a href='https://github.com/Aadhi000/File-To-Link'>𝙵𝙸𝙻𝙴-𝚃𝙾-𝙻𝙸𝙽𝙺</a></b>
+┣⪼<b>𝚄𝙿𝙳𝙰𝚃𝙴𝚉 : <a href='https://t.me/MG_movies_and_web_series'>𝙼𝚆-𝚄𝙿𝙳𝙰𝚃𝙴𝚉</a></b>
+┣⪼<b>𝚂𝚄𝙿𝙿𝙾𝚁𝚃 : <a href='https://t.me/MG_movies_and_web_series'>𝙾𝙿𝚄𝚂-𝚃𝙴𝙲𝙷𝚉</a></b>
+┣⪼<b>𝚂𝙴𝚁𝚅𝙴𝚁 : 𝙷𝙴𝚁𝚄𝙺𝙾</b>
+┣⪼<b>𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚁𝙾𝙶𝚁𝙰𝙼</b>
+┣⪼<b>𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽3</b> 
+┣⪼<b>𝚂𝙾𝚄𝚁𝙲𝙴-𝙲𝙾𝙳𝙴 : <a 
 ┣⪼<b>𝚈𝚃-𝙲𝙷𝙰𝙽𝙽𝙴𝙻 : <a href='https://youtube.com/channel/UCdqeUMwzJvpLiRo3Md7AgAg'>𝙾𝙿𝚄𝚂-𝚃𝙴𝙲𝙷𝚉</a></b>
 ┃
 <b>╰━━━━━━━〔𝙿𝙻𝙴𝙰𝚂𝙴 𝚂𝚄𝙿𝙿𝙾𝚁𝚃〕</b>""",
